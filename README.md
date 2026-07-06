@@ -9,12 +9,7 @@ A robust desktop application designed to streamline and automate the daily opera
 *   **Billing & Invoices:** Automated invoice generation with persistent data storage.
 
 ## 🛠️ Tech Stack
-*   **Language:** Java (Object-Oriented Programming principles)
-*   **GUI:** JavaFX / Swing *(Nota: Elige la que estés usando)*
-*   **Database:** Oracle DB / MySQL *(Nota: Elige la que estés usando)* with persistent storage.
-
-## 📸 Interface Preview
-> 💡 **Freelancer Tip:** ¡Aquí es donde vendes tu trabajo! Borra estas líneas de texto y coloca capturas de pantalla o un GIF de tu interfaz funcionando. 
-
-```img
-[Insert a screenshot of the main dashboard here]
+* **Build Tool:** Maven (Project Management & Dependency Injection)
+* **Language:** Java (Object-Oriented Programming principles)
+* **GUI:** Java Swing (Desktop User Interface)
+* **Database:** MySQL (Work in progress / Planned Integration)
